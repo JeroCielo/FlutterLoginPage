@@ -1,2 +1,2 @@
 # FlutterLoginPage
-This is the Flutter login page for the community service app.
+This is the Flutter login page for the community service app called Nexus.
