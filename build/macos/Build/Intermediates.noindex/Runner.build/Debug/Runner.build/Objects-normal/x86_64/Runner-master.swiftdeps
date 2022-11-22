@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "878aac69262dc9c026318eb00d1cea721d9ec53a66010717a7b2822c2879a4ee"
+build_start_time: [1664945398, 856482028]
+build_end_time: [1664945414, 283980846]
+inputs:
+  "/Users/doyeon/StudioProjects/loginpage_example/macos/Flutter/GeneratedPluginRegistrant.swift": [1664945370, 521757841]
+  "/Users/doyeon/StudioProjects/loginpage_example/macos/Runner/AppDelegate.swift": [1661879081, 0]
+  "/Users/doyeon/StudioProjects/loginpage_example/macos/Runner/MainFlutterWindow.swift": [1661879081, 0]
